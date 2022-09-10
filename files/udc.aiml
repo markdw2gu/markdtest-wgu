@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>start</pattern>
+    <template>Pick a language
+    <ul><li>Clown</li></ul></template>
+  </category>
+  
+  <category>
+    <pattern>DEV</pattern>
+    <template>Use Python</template>
+  </category>
+</aiml>
